@@ -1,4 +1,4 @@
-### AI-Assistant
+# AI-Assistant
 
 ## Description
 
@@ -35,9 +35,8 @@ pip install -r requirements.txt
 
 python main.py
 
-**Note : You'll have to manually change the location of the saved images described in the first few lines of main.py
-**```bash
+**Note : You'll have to manually change the location of the saved images described in the first few lines of main.py**
 
 ## Demo 
 
-## Have a look at the demo on [Youtube](https://youtu.be/QtxIoy5guxg)
+### Have a look at the demo on [Youtube](https://youtu.be/QtxIoy5guxg)
