@@ -25,7 +25,7 @@ Performs casual tasks like reading out emails to enhance user convenience.
 
 **Clone the repository**
 
-git clone [repository](https://github.com/shwetabh-23/AI-assistant.git)
+git clone https://github.com/shwetabh-23/AI-assistant.git
 
 **Install dependencies**
 
